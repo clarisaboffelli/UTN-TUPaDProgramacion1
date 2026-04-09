@@ -1,2 +1,2 @@
 # UTN-TUPaDProgramacion1
-Trabajo practivo unidad 1 de Programación I
+Trabajo practico unidad 1 de Programación I
